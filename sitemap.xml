@@ -3,7 +3,33 @@
   
   <url>
     <loc>http://villweb.github.io/</loc>
+    <lastmod>2015-11-30T15:21:45+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://villweb.github.io/post/learngit/</loc>
+    <lastmod>2015-11-30T15:21:45+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://villweb.github.io/content/post/first/</loc>
+    <lastmod>2015-11-30T15:12:45+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://villweb.github.io/post/first/</loc>
+    <lastmod>2015-11-30T10:41:48+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://villweb.github.io/about/</loc>
+    <lastmod>2015-11-30T10:40:45+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://villweb.github.io/content/about/</loc>
+    <lastmod>2015-11-30T10:39:21+08:00</lastmod>
   </url>
   
 </urlset>
